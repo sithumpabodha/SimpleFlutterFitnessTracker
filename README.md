@@ -5,10 +5,9 @@ Flutter Simple Fitness Tracker
 The Fitness Tracker App is a Flutter-based mobile application designed to help users track their daily workouts and monitor their progress toward a daily calorie goal. The app allows users to
 <ul>
     <li>Add workouts with details like name and calories burned.</li>
-
     <li>Set a daily calorie goal.</li>
-
-    <li>View a list of workouts and track progress toward the goal.</li></ul>
+    <li>View a list of workouts and track progress toward the goal.</li>
+</ul>
 
 Features
 
